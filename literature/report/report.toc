@@ -1,0 +1,53 @@
+\contentsline {section}{\numberline {1}Introduction}{6}
+\contentsline {section}{\numberline {2}Attacks Using IP Spoofing}{7}
+\contentsline {subsection}{\numberline {2.1}SYN Flood}{8}
+\contentsline {subsection}{\numberline {2.2}TCP Session Hijack}{8}
+\contentsline {subsection}{\numberline {2.3}Reflective UDP Amplification}{9}
+\contentsline {subsection}{\numberline {2.4}Smurf Attack}{9}
+\contentsline {section}{\numberline {3}Related Work}{10}
+\contentsline {subsection}{\numberline {3.1}Eliminating Spoofed Packets from the Internet \cite {eliminating}}{10}
+\contentsline {subsection}{\numberline {3.2}IP Source Guard \cite {ipsourceguard}}{11}
+\contentsline {subsection}{\numberline {3.3}Encoding Route Information Into Packets \cite {traceback}}{12}
+\contentsline {subsection}{\numberline {3.4}Detecting Spoofed Packets \cite {dsp}}{12}
+\contentsline {subsection}{\numberline {3.5}Hop-Count Filtering \cite {hcf}}{12}
+\contentsline {section}{\numberline {4}Limitations}{13}
+\contentsline {subsection}{\numberline {4.1}Similar Location or Routes}{13}
+\contentsline {subsection}{\numberline {4.2}Faking TTL Values}{14}
+\contentsline {subsection}{\numberline {4.3}TTL Prediction for Unseen IPs}{14}
+\contentsline {subsection}{\numberline {4.4}Long Term Route Changes}{15}
+\contentsline {section}{\numberline {5}System Design Overview}{15}
+\contentsline {section}{\numberline {6}Data Collection Tool}{17}
+\contentsline {subsection}{\numberline {6.1}Netfilter \cite {netfilter}}{17}
+\contentsline {subsection}{\numberline {6.2}Utilising Threads}{17}
+\contentsline {subsection}{\numberline {6.3}Efficient Data Structures}{18}
+\contentsline {subsection}{\numberline {6.4}Multiple Writers Problem}{19}
+\contentsline {subsection}{\numberline {6.5}Testing and Evaluation}{20}
+\contentsline {subsubsection}{\numberline {6.5.1}Insertion Times}{20}
+\contentsline {subsubsection}{\numberline {6.5.2}Effectiveness of a workqueue}{21}
+\contentsline {subsubsection}{\numberline {6.5.3}Comparison with iptables}{22}
+\contentsline {subsubsection}{\numberline {6.5.4}Limitations}{22}
+\contentsline {section}{\numberline {7}Spoof Detection Tool}{22}
+\contentsline {subsection}{\numberline {7.1}Acquiring Kernel Data}{23}
+\contentsline {subsection}{\numberline {7.2}Pinger}{23}
+\contentsline {subsection}{\numberline {7.3}Rule Manager}{23}
+\contentsline {subsection}{\numberline {7.4}Database Storage}{24}
+\contentsline {subsubsection}{\numberline {7.4.1}SQLite \cite {sqlite}}{24}
+\contentsline {subsubsection}{\numberline {7.4.2}PostgreSQL \cite {postresql}}{25}
+\contentsline {subsubsection}{\numberline {7.4.3}Speed Comparison}{25}
+\contentsline {subsection}{\numberline {7.5}Testing and Evaluation}{25}
+\contentsline {section}{\numberline {8}IP Data Analysis}{26}
+\contentsline {subsection}{\numberline {8.1}Distribution of TTLs}{26}
+\contentsline {subsection}{\numberline {8.2}Hop-Count Ranges}{27}
+\contentsline {section}{\numberline {9}Further Work}{28}
+\contentsline {subsection}{\numberline {9.1}Clustering IP addresses}{28}
+\contentsline {subsection}{\numberline {9.2}Kernel Data Structure}{28}
+\contentsline {subsection}{\numberline {9.3}Database Strategies}{28}
+\contentsline {subsection}{\numberline {9.4}Real Time Active Mode}{29}
+\contentsline {subsection}{\numberline {9.5}Route Change Analysis}{29}
+\contentsline {section}{\numberline {10}Conclusion}{29}
+\contentsline {section}{\numberline {11}References}{30}
+\contentsline {section}{\numberline {12}Appendix}{33}
+\contentsline {subsection}{\numberline {12.1}Zip File Submission Structure}{33}
+\contentsline {subsection}{\numberline {12.2}Running the Code}{33}
+\contentsline {subsubsection}{\numberline {12.2.1}Data Collection Tool}{33}
+\contentsline {subsubsection}{\numberline {12.2.2}Spoof Detection Tool}{33}

@@ -1,0 +1,149 @@
+\begin{thebibliography}{10}
+
+\bibitem{rfc791}
+{J Postel}, 1981.
+\newblock {\em RFC 791: Internet Protocol}.
+\newblock Information Sciences Institute, University of Southern California.
+\newblock http://www.ietf.org/rfc/rfc791.
+
+\bibitem{ipSpoofIntro}
+Tanase, M., 2003.
+\newblock ``Ip spoofing: An introduction''.
+\newblock {\em Symantec}.
+
+\bibitem{ipSpoofing}
+Ali, F., 2007.
+\newblock ``Ip spoofing''.
+\newblock {\em Cisco}.
+
+\bibitem{spoofProblemStatement}
+Wu, J., 2007.
+\newblock ``Source address verification architecture problem statement''.
+\newblock {\em The IETF Trust}.
+
+\bibitem{hping}
+Sanfilippo, S.
+\newblock {\em Hping}.
+\newblock http://www.hping.org/.
+
+\bibitem{rfc4987}
+{W. Eddy}, 2007.
+\newblock {\em RFC 4987: TCP SYN Flooding Attacks and Common Mitigations}.
+\newblock The IETF Trust.
+\newblock https://tools.ietf.org/html/rfc4987.
+
+\bibitem{rfc793}
+{J Postel}, 1981.
+\newblock {\em RFC 791: Transmission Control Protocol}.
+\newblock Information Sciences Institute, University of Southern California.
+\newblock http://www.ietf.org/rfc/rfc793.
+
+\bibitem{tcphijacking}
+Prohorenko, A., 2000.
+\newblock ``Tcp hijacking''.
+\newblock {\em TechRepublic}.
+
+\bibitem{USCERT}
+{US CERT}, 2014.
+\newblock ``Udp-based amplification attacks''.
+\newblock {\em Alert (TA14-017A)}.
+
+\bibitem{rfc919}
+{JC Mogul}, 1984.
+\newblock {\em RFC 919: Broadcasting Internet Datagrams}.
+\newblock The IETF Trust.
+\newblock https://tools.ietf.org/html/rfc919.
+
+\bibitem{smurf}
+University, C.~M., 1998.
+\newblock ``Smurf ip denial-of-service attacks''.
+\newblock {\em Cert}.
+
+\bibitem{eliminating}
+Baker, F.
+\newblock {\em IPv4/IPv6 Source Address Verification}.
+\newblock https://tools.ietf.org/html/draft-baker-sava-operational-00.
+
+\bibitem{rfc2827}
+{P. Ferguson}, 2000.
+\newblock {\em Network Ingress Filtering: Defeating Denial of Service Attacks
+  which employ IP Source Address Spoofing}.
+\newblock The IETF Trust.
+\newblock https://tools.ietf.org/html/rfc2827.
+
+\bibitem{ipsourceguard}
+Baker, F.
+\newblock {\em Cisco IP Version 4 Source Guard}.
+\newblock
+  https://tools.ietf.org/html/draft-baker-sava-cisco-ip-source-guard-00.
+
+\bibitem{dsp}
+Steven J.~Templeton, K. E.~L., 2003.
+\newblock ``Detecting spoofed packets''.
+
+\bibitem{traceback}
+{S. Savage, D. Wetherall, A. Karlin, T. Anderson}, 2014.
+\newblock ``Practical network support for ip traceback''.
+\newblock {\em Proceedings of the conference on Applications, Technologies,
+  Architectures, and Protocols for Computer Communication}.
+
+\bibitem{rfc6864}
+{J. Touch}, 2013.
+\newblock {\em Updated Specification of the IPv4 ID Field}.
+\newblock The IETF Trust.
+\newblock https://tools.ietf.org/html/rfc6864.
+
+\bibitem{iptables}
+Russel, R.
+\newblock {\em iptables}.
+\newblock http://www.netfilter.org/ projects/iptables/index.html.
+
+\bibitem{netfilter}
+Russel, R.
+\newblock {\em netfilter}.
+\newblock http://www.netfilter.org/.
+
+\bibitem{workqueue}
+Molnar, I.
+\newblock {\em workqueue - generic async execution with shared worker pool}.
+\newblock https://github.com/torvalds/linux/blob/master/kernel/workqueue.c.
+
+\bibitem{sqlite}
+Hipp, D.~R.
+\newblock {\em SQLite}.
+\newblock https://www.sqlite.org/.
+
+\bibitem{proc}
+tldp.
+\newblock {\em Linux Filesystem Hierarchy - 1.14 proc}.
+\newblock http://www.tldp.org/LDP/Linux-Filesystem-Hierarchy/html/proc.html.
+
+\bibitem{judy}
+{Doug Baskins}, 2001.
+\newblock {\em Judy}.
+\newblock http://judy.sourceforge.net.
+
+\bibitem{judy256}
+{Debian}.
+\newblock {\em Package: libjudy-dev (1.0.5-1)}.
+\newblock https://packages.debian.org/wheezy/libjudy-dev.
+
+\bibitem{naive}
+Norvig, S. R.~P., 1994.
+\newblock {\em Artificial Intelligence: A Modern Approach (2nd ed.)}.
+\newblock Prentice Hall.
+
+\bibitem{kfold}
+Kohavi, R., 1995.
+\newblock ``A study of cross-validation and bootstrap for accuracy estimation
+  and model selection''.
+\newblock {\em Proceedings of the Fourteenth International Joint Conference on
+  Artificial Intelligence}.
+
+\bibitem{rfc1918}
+{Y. Rekhter}, 1996.
+\newblock {\em Address Allocation for Private Internets}.
+\newblock The IETF Trust.
+\newblock https://www.ietf.org/rfc/rfc1918.txt.
+
+\end{thebibliography}

@@ -1,0 +1,357 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.10.31)  7 APR 2018 17:44
+entering extended mode
+**./report.tex
+(report.tex
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 75 language(s) loaded.
+("E:\Program Files\MiKTeX\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("E:\Program Files\MiKTeX\tex\latex\base\size12.clo"
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("E:\Program Files\MiKTeX\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("E:\Program Files\MiKTeX\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("E:\Program Files\MiKTeX\tex\latex\graphics\graphics.sty"
+Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
+
+("E:\Program Files\MiKTeX\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("E:\Program Files\MiKTeX\tex\latex\graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("E:\Program Files\MiKTeX\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
+
+("E:\Program Files\MiKTeX\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("E:\Program Files\MiKTeX\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(C:\Users\Joe\AppData\Roaming\MiKTeX\2.9\tex\latex\preprint\fullpage.sty
+Package: fullpage 1999/02/23 1.1 (PWD)
+\FP@margin=\skip43
+)
+(C:\Users\Joe\AppData\Roaming\MiKTeX\2.9\tex\latex\subfig\subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+(C:\Users\Joe\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+(C:\Users\Joe\AppData\Roaming\MiKTeX\2.9\tex\latex\caption\caption3.sty
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen105
+\captionmargin@=\dimen106
+\captionwidth=\dimen107
+\caption@tempdima=\dimen108
+\caption@indent=\dimen109
+\caption@parindent=\dimen110
+\caption@hangindent=\dimen111
+)
+\c@ContinuedFloat=\count88
+)
+\c@KVtest=\count89
+\sf@farskip=\skip44
+\sf@captopadj=\dimen112
+\sf@capskip=\skip45
+\sf@nearskip=\skip46
+\c@subfigure=\count90
+\c@subfigure@save=\count91
+\c@lofdepth=\count92
+\c@subtable=\count93
+\c@subtable@save=\count94
+\c@lotdepth=\count95
+\sf@top=\skip47
+\sf@bottom=\skip48
+)
+(C:\Users\Joe\AppData\Roaming\MiKTeX\2.9\tex\latex\etoolbox\etoolbox.sty
+Package: etoolbox 2018/02/04 v2.5b e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count96
+)
+(report.aux)
+\openout1 = `report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+
+(C:\Users\Joe\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count97
+\scratchdimen=\dimen113
+\scratchbox=\box26
+\nofMPsegments=\count98
+\nofMParguments=\count99
+\everyMPshowfont=\toks15
+\MPscratchCnt=\count100
+\MPscratchDim=\dimen114
+\MPnumerator=\count101
+\makeMPintoPDFobject=\count102
+\everyMPtoPDFconversion=\toks16
+) ("E:\Program Files\MiKTeX\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+("E:\Program Files\MiKTeX\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+("E:\Program Files\MiKTeX\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+("E:\Program Files\MiKTeX\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("E:\Program Files\MiKTeX\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("E:\Program Files\MiKTeX\tex\generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+("E:\Program Files\MiKTeX\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("E:\Program Files\MiKTeX\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("E:\Program Files\MiKTeX\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+<figures/university_logo.png, id=1, 1204.5pt x 1439.3775pt>
+File: figures/university_logo.png Graphic file (type png)
+
+<use figures/university_logo.png>
+Package pdftex.def Info: figures/university_logo.png used on input line 37.
+(pdftex.def)             Requested size: 187.89914pt x 224.52881pt.
+ [1
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <./figures/university_logo
+.png>] [2] [3] (report.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 3.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 3.
+ [4])
+\tf@toc=\write3
+\openout3 = `report.toc'.
+
+ [5]
+[6]
+Underfull \vbox (badness 3333) has occurred while \output is active []
+
+ [7]
+<figures/three-way-handshake.png, id=33, 344.03531pt x 193.47281pt>
+File: figures/three-way-handshake.png Graphic file (type png)
+
+<use figures/three-way-handshake.png>
+Package pdftex.def Info: figures/three-way-handshake.png used on input line 148
+.
+(pdftex.def)             Requested size: 130.02608pt x 73.12483pt.
+ [8 <./figures/three-way-handshake.png>]
+<figures/udp-amplification.png, id=38, 629.35126pt x 189.70876pt>
+File: figures/udp-amplification.png Graphic file (type png)
+
+<use figures/udp-amplification.png>
+Package pdftex.def Info: figures/udp-amplification.png used on input line 180.
+(pdftex.def)             Requested size: 237.85954pt x 71.70218pt.
+
+<figures/smurf.png, id=39, 577.40718pt x 242.40562pt>
+File: figures/smurf.png Graphic file (type png)
+ <use figures/smurf.png>
+Package pdftex.def Info: figures/smurf.png used on input line 194.
+(pdftex.def)             Requested size: 218.2364pt x 91.61945pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[9 <./figures/udp-amplification.png>]
+<figures/eliminating2.png, id=44, 435.87843pt x 663.98062pt>
+File: figures/eliminating2.png Graphic file (type png)
+
+<use figures/eliminating2.png>
+Package pdftex.def Info: figures/eliminating2.png used on input line 213.
+(pdftex.def)             Requested size: 164.73764pt x 250.9475pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[10 <./figures/smurf.png>] [11 <./figures/eliminating2.png>] [12] [13] [14]
+[15] <figures/system_layout.png, id=66, 1006.51031pt x 625.58719pt>
+File: figures/system_layout.png Graphic file (type png)
+
+<use figures/system_layout.png>
+Package pdftex.def Info: figures/system_layout.png used on input line 311.
+(pdftex.def)             Requested size: 381.2646pt x 236.43694pt.
+
+Underfull \vbox (badness 2970) has occurred while \output is active []
+
+ [16 <./figures/system_layout.png>]
+<figures/workqueue.png, id=71, 1008.76875pt x 485.56406pt>
+File: figures/workqueue.png Graphic file (type png)
+
+<use figures/workqueue.png>
+Package pdftex.def Info: figures/workqueue.png used on input line 343.
+(pdftex.def)             Requested size: 209.69273pt x 101.00085pt.
+ [17] [18 <./figures/workqueue.png>]
+<figures/trees.png, id=79, 512.66531pt x 372.64218pt>
+File: figures/trees.png Graphic file (type png)
+ <use figures/trees.png>
+Package pdftex.def Info: figures/trees.png used on input line 377.
+(pdftex.def)             Requested size: 195.71443pt x 142.26378pt.
+
+[19 <./figures/trees.png>]
+<figures/one_tree_fitted.png, id=85, 421.575pt x 316.18124pt>
+File: figures/one_tree_fitted.png Graphic file (type png)
+
+<use figures/one_tree_fitted.png>
+Package pdftex.def Info: figures/one_tree_fitted.png used on input line 400.
+(pdftex.def)             Requested size: 219.08612pt x 164.3187pt.
+
+<figures/four_tree_fitted.png, id=86, 421.575pt x 316.18124pt>
+File: figures/four_tree_fitted.png Graphic file (type png)
+
+<use figures/four_tree_fitted.png>
+Package pdftex.def Info: figures/four_tree_fitted.png used on input line 402.
+(pdftex.def)             Requested size: 219.08612pt x 164.3187pt.
+ [20 <./figures/one_tree_fitted.png (PNG copy)> <./figures/four_tree_fitted.png
+ (PNG copy)>] [21] [22] [23] [24]
+<figures/sql_comparison.png, id=110, 421.575pt x 316.18124pt>
+File: figures/sql_comparison.png Graphic file (type png)
+
+<use figures/sql_comparison.png>
+Package pdftex.def Info: figures/sql_comparison.png used on input line 515.
+(pdftex.def)             Requested size: 284.52756pt x 213.39865pt.
+ [25 <./figures/sql_comparison.png (PNG copy)>] <figures/ttl_count_prob.png, id
+=115, 421.575pt x 316.18124pt>
+File: figures/ttl_count_prob.png Graphic file (type png)
+
+<use figures/ttl_count_prob.png>
+Package pdftex.def Info: figures/ttl_count_prob.png used on input line 540.
+(pdftex.def)             Requested size: 199.16928pt x 149.37712pt.
+
+<figures/hop_count_prob.png, id=116, 421.575pt x 316.18124pt>
+File: figures/hop_count_prob.png Graphic file (type png)
+
+<use figures/hop_count_prob.png>
+Package pdftex.def Info: figures/hop_count_prob.png used on input line 542.
+(pdftex.def)             Requested size: 199.16928pt x 149.37712pt.
+ [26 <./figures/ttl_count_prob.png (PNG copy)> <./figures/hop_count_prob.png (P
+NG copy)>]
+<figures/hop_count_ranges.png, id=120, 421.575pt x 316.18124pt>
+File: figures/hop_count_ranges.png Graphic file (type png)
+
+<use figures/hop_count_ranges.png>
+Package pdftex.def Info: figures/hop_count_ranges.png used on input line 565.
+(pdftex.def)             Requested size: 284.52756pt x 213.39865pt.
+ [27 <./figures/hop_count_ranges.png (PNG copy)>] [28] [29] (report.bbl [30]
+Underfull \hbox (badness 4582) in paragraph at lines 115--120
+[]\OT1/cmr/m/n/12 P. Fer-gu-son, 2000.  \OT1/cmr/m/it/12 Net-work Ingress Fil-t
+er-ing: De-feat-ing De-nial of Ser-
+ []
+
+
+Underfull \hbox (badness 3240) in paragraph at lines 115--120
+\OT1/cmr/m/it/12 vice At-tacks which em-ploy IP Source Ad-dress Spoof-ing\OT1/c
+mr/m/n/12 .  The IETF Trust.
+ []
+
+[31]) [32]
+Underfull \hbox (badness 10000) in paragraph at lines 627--637
+
+ []
+
+
+Overfull \hbox (0.87567pt too wide) in paragraph at lines 627--637
+| \OT1/cmtt/m/n/12 -D| data collection mode - does not take action on suspiciou
+s packets 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 627--637
+
+ []
+
+[33] (report.aux) ) 
+Here is how much of TeX's memory you used:
+ 3175 strings out of 493323
+ 49356 string characters out of 3140795
+ 115866 words of memory out of 3000000
+ 6684 multiletter control sequences out of 15000+200000
+ 9917 words of font info for 35 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 44i,9n,49p,1028b,350s stack positions out of 5000i,500n,10000p,200000b,50000s
+<E:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx
+12.pfb><E:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><E:/P
+rogram Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><E:/Program Files
+/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><E:/Program Files/MiKTeX/fonts
+/type1/public/amsfonts/cm/cmmi8.pfb><E:/Program Files/MiKTeX/fonts/type1/public
+/amsfonts/cm/cmr10.pfb><E:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/
+cmr12.pfb><E:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><E:
+/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><E:/Program Files
+/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><E:/Program Files/MiKTeX/fonts/
+type1/public/amsfonts/cm/cmsy8.pfb><E:/Program Files/MiKTeX/fonts/type1/public/
+amsfonts/cm/cmti12.pfb><E:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/
+cmtt12.pfb><E:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmu10.pfb>
+Output written on report.pdf (33 pages, 810115 bytes).
+PDF statistics:
+ 187 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 71 words of extra memory for PDF output out of 10000 (max. 10000000)
+

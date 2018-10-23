@@ -1,0 +1,58 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: scientificPaper.aux
+The style file: asmems4.bst
+Database file #1: scientificPaperBib.bib
+I was expecting a `,' or a `}'---line 116 of file scientificPaperBib.bib
+ :  
+ :  year   = "2006"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 123 of file scientificPaperBib.bib
+ :  
+ :  year   = "2007"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 126 of file scientificPaperBib.bib
+ : @manual{ipsourceguard
+ :                      ,
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 137 of file scientificPaperBib.bib
+ :  
+ :  year   = "1998"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 144 of file scientificPaperBib.bib
+ :  
+ :  year   = "1998"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 151 of file scientificPaperBib.bib
+ :  
+ :  year   = "2007"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 158 of file scientificPaperBib.bib
+ :  
+ :  year   = "2002"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 165 of file scientificPaperBib.bib
+ :  
+ :  year   = "2000"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 172 of file scientificPaperBib.bib
+ :  
+ :  year   = "2003"
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--empty year in hping
+Warning--empty year in eliminating
+Warning--empty year in ipsourceguard
+Warning--empty journal in dsp
+Warning--empty year in iptables
+Warning--empty year in netfilter
+Warning--empty year in workqueue
+Warning--empty year in sqlite
+Warning--empty year in proc
+Warning--empty year in judy256
+(There were 9 error messages)

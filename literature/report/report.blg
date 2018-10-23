@@ -1,0 +1,12 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: report.aux
+The style file: asmems4.bst
+Database file #1: reportBib.bib
+Repeated entry---line 126 of file reportBib.bib
+ : @manual{ipsourceguard
+ :                      ,
+I'm skipping whatever remains of this entry
+Warning--empty journal in dsp
+Warning--empty journal in hcf
+Warning--empty year in iptablesapi
+Warning--empty year in endianess
+(There was 1 error message)

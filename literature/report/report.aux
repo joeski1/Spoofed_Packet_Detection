@@ -1,0 +1,167 @@
+\relax 
+\citation{eliminating}
+\citation{ipsourceguard}
+\citation{traceback}
+\citation{dsp}
+\citation{hcf}
+\citation{netfilter}
+\citation{sqlite}
+\citation{postresql}
+\citation{rfc791}
+\citation{ipSpoofIntro}
+\citation{ipSpoofing}
+\citation{spoofProblemStatement}
+\citation{hping}
+\citation{q3ddos}
+\citation{ddoscost}
+\@writefile{toc}{\contentsline {section}{\numberline {1}Introduction}{6}}
+\citation{rfc4987}
+\@writefile{toc}{\contentsline {section}{\numberline {2}Attacks Using IP Spoofing}{7}}
+\newlabel{attacks}{{2}{7}}
+\citation{rfc793}
+\citation{tcphijacking}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.1}SYN Flood}{8}}
+\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces TCP three-way-handshake\relax }}{8}}
+\providecommand*\caption@xref[2]{\@setref\relax\@undefined{#1}}
+\newlabel{figure_handshake}{{1}{8}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.2}TCP Session Hijack}{8}}
+\newlabel{hijack}{{2.2}{8}}
+\citation{USCERT}
+\citation{rfc919}
+\citation{smurf}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.3}Reflective UDP Amplification}{9}}
+\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces Reflective UDP Amplification\relax }}{9}}
+\newlabel{figure_amplification}{{2}{9}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.4}Smurf Attack}{9}}
+\citation{eliminating}
+\citation{spoofProblemStatement}
+\citation{rfc2827}
+\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces Smurf Attack: how one request can lead to hundreds\relax }}{10}}
+\newlabel{figure_smurf}{{3}{10}}
+\@writefile{toc}{\contentsline {section}{\numberline {3}Related Work}{10}}
+\newlabel{defences}{{3}{10}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.1}Eliminating Spoofed Packets from the Internet \cite  {eliminating}}{10}}
+\citation{ipsourceguard}
+\citation{traceback}
+\@writefile{lof}{\contentsline {figure}{\numberline {4}{\ignorespaces This illustrates five locations a source address can be validated: Host to Switch, Switch to CPE, CPE to ISP PE, ISP NNI to ISP NNI and ISP PE to destination CPE\relax }}{11}}
+\newlabel{figure_eliminating}{{4}{11}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.2}IP Source Guard \cite  {ipsourceguard}}{11}}
+\citation{rfc6864}
+\citation{dsp}
+\citation{hcf}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.3}Encoding Route Information Into Packets \cite  {traceback}}{12}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.4}Detecting Spoofed Packets \cite  {dsp}}{12}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.5}Hop-Count Filtering \cite  {hcf}}{12}}
+\newlabel{hcf}{{3.5}{12}}
+\@writefile{toc}{\contentsline {section}{\numberline {4}Limitations}{13}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.1}Similar Location or Routes}{13}}
+\newlabel{same_routes}{{4.1}{13}}
+\citation{rfc1918}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2}Faking TTL Values}{14}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.3}TTL Prediction for Unseen IPs}{14}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.4}Long Term Route Changes}{15}}
+\newlabel{modes}{{4.4}{15}}
+\@writefile{toc}{\contentsline {section}{\numberline {5}System Design Overview}{15}}
+\citation{iptables}
+\@writefile{lof}{\contentsline {figure}{\numberline {5}{\ignorespaces The addition of TTL analysis will not hinder normal performance.\relax }}{16}}
+\newlabel{figure_sys_layout}{{5}{16}}
+\citation{netfilter}
+\citation{workqueue}
+\@writefile{toc}{\contentsline {section}{\numberline {6}Data Collection Tool}{17}}
+\newlabel{kernel_tool}{{6}{17}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {6.1}Netfilter \cite  {netfilter}}{17}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {6.2}Utilising Threads}{17}}
+\@writefile{lof}{\contentsline {figure}{\numberline {6}{\ignorespaces Multiple threads take work out of the workqueue concurrently without delaying the packet flow\relax }}{18}}
+\newlabel{figure_workqueue}{{6}{18}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {6.3}Efficient Data Structures}{18}}
+\newlabel{data_structures}{{6.3}{18}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {6.4}Multiple Writers Problem}{19}}
+\@writefile{lof}{\contentsline {figure}{\numberline {7}{\ignorespaces Multiple threads working on multiple trees concurrently\relax }}{19}}
+\newlabel{figure_trees}{{7}{19}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {6.5}Testing and Evaluation}{20}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {6.5.1}Insertion Times}{20}}
+\@writefile{lof}{\contentsline {figure}{\numberline {8}{\ignorespaces Average insertion times for 10,000 packets.\relax }}{20}}
+\newlabel{insertion_time}{{8}{20}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(a)}{\ignorespaces {One Tree}}}{20}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(b)}{\ignorespaces {Four Trees}}}{20}}
+\citation{avg_pkt}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {6.5.2}Effectiveness of a workqueue}{21}}
+\citation{pingc}
+\citation{proc}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {6.5.3}Comparison with iptables}{22}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {6.5.4}Limitations}{22}}
+\@writefile{toc}{\contentsline {section}{\numberline {7}Spoof Detection Tool}{22}}
+\newlabel{analysis_tool}{{7}{22}}
+\citation{iptables}
+\citation{iptablesapi}
+\@writefile{toc}{\contentsline {subsection}{\numberline {7.1}Acquiring Kernel Data}{23}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {7.2}Pinger}{23}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {7.3}Rule Manager}{23}}
+\citation{endianess}
+\citation{sqlite}
+\citation{postresql}
+\@writefile{toc}{\contentsline {subsection}{\numberline {7.4}Database Storage}{24}}
+\newlabel{database}{{7.4}{24}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {7.4.1}SQLite \cite  {sqlite}}{24}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {7.4.2}PostgreSQL \cite  {postresql}}{25}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {7.4.3}Speed Comparison}{25}}
+\@writefile{lof}{\contentsline {figure}{\numberline {9}{\ignorespaces SQL Database Manager Comparison\relax }}{25}}
+\newlabel{sql_comp}{{9}{25}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {7.5}Testing and Evaluation}{25}}
+\@writefile{toc}{\contentsline {section}{\numberline {8}IP Data Analysis}{26}}
+\newlabel{analysis}{{8}{26}}
+\@writefile{lof}{\contentsline {figure}{\numberline {10}{\ignorespaces Average insertion times for 10,000 packets.\relax }}{26}}
+\newlabel{ttl_count_prob}{{10}{26}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(a)}{\ignorespaces {One Tree}}}{26}}
+\@writefile{lof}{\contentsline {subfigure}{\numberline{(b)}{\ignorespaces {Four Trees}}}{26}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {8.1}Distribution of TTLs}{26}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {8.2}Hop-Count Ranges}{27}}
+\@writefile{lof}{\contentsline {figure}{\numberline {11}{\ignorespaces Ranges of Hop-Counts\relax }}{27}}
+\newlabel{ranges}{{11}{27}}
+\@writefile{toc}{\contentsline {section}{\numberline {9}Further Work}{28}}
+\newlabel{future}{{9}{28}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {9.1}Clustering IP addresses}{28}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {9.2}Kernel Data Structure}{28}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {9.3}Database Strategies}{28}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {9.4}Real Time Active Mode}{29}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {9.5}Route Change Analysis}{29}}
+\@writefile{toc}{\contentsline {section}{\numberline {10}Conclusion}{29}}
+\bibstyle{asmems4}
+\bibdata{reportBib}
+\bibcite{eliminating}{1}
+\bibcite{ipsourceguard}{2}
+\bibcite{traceback}{3}
+\bibcite{dsp}{4}
+\bibcite{hcf}{5}
+\bibcite{netfilter}{6}
+\bibcite{sqlite}{7}
+\bibcite{postresql}{8}
+\bibcite{rfc791}{9}
+\bibcite{ipSpoofIntro}{10}
+\bibcite{ipSpoofing}{11}
+\bibcite{spoofProblemStatement}{12}
+\@writefile{toc}{\contentsline {section}{\numberline {11}References}{30}}
+\bibcite{hping}{13}
+\bibcite{q3ddos}{14}
+\bibcite{ddoscost}{15}
+\bibcite{rfc4987}{16}
+\bibcite{rfc793}{17}
+\bibcite{tcphijacking}{18}
+\bibcite{USCERT}{19}
+\bibcite{rfc919}{20}
+\bibcite{smurf}{21}
+\bibcite{rfc2827}{22}
+\bibcite{rfc6864}{23}
+\bibcite{rfc1918}{24}
+\bibcite{iptables}{25}
+\bibcite{workqueue}{26}
+\bibcite{avg_pkt}{27}
+\bibcite{pingc}{28}
+\bibcite{proc}{29}
+\bibcite{iptablesapi}{30}
+\bibcite{endianess}{31}
+\@writefile{toc}{\contentsline {section}{\numberline {12}Appendix}{33}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {12.1}Zip File Submission Structure}{33}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {12.2}Running the Code}{33}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {12.2.1}Data Collection Tool}{33}}
+\@writefile{toc}{\contentsline {subsubsection}{\numberline {12.2.2}Spoof Detection Tool}{33}}

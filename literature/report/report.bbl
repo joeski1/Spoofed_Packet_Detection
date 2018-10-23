@@ -1,0 +1,173 @@
+\begin{thebibliography}{10}
+
+\bibitem{eliminating}
+Baker, F., 2007.
+\newblock {\em IPv4/IPv6 Source Address Verification}.
+\newblock https://tools.ietf.org/html/ draftbaker-sava-operational-00 (Accessed
+  20 Mar 2018).
+
+\bibitem{ipsourceguard}
+Baker, F., 2007.
+\newblock {\em Cisco IP Version 4 Source Guard}.
+\newblock https://tools.ietf.org/html/draft-baker-sava-cisco-ip-source-guard-00
+  (Accessed 20 Mar 2018).
+
+\bibitem{traceback}
+{S. Savage, D. Wetherall, A. Karlin, T. Anderson}, 2014.
+\newblock ``Practical network support for ip traceback''.
+\newblock {\em Proceedings of the conference on Applications, Technologies,
+  Architectures, and Protocols for Computer Communication}.
+
+\bibitem{dsp}
+Templeton, S.~J., and Levitt, K.~E., 2003.
+\newblock ``Detecting spoofed packets''.
+
+\bibitem{hcf}
+Jin, C., Wang, H., and Shin, K.~G., 2003.
+\newblock ``Hop-count filtering: An effective defense against spoofed ddos
+  traffic''.
+
+\bibitem{netfilter}
+Russel, R., 1998.
+\newblock {\em netfilter}.
+\newblock http://www.netfilter.org/ (Accessed 20 Mar 2018).
+
+\bibitem{sqlite}
+Hipp, D.~R., 2000.
+\newblock {\em SQLite}.
+\newblock https://www.sqlite.org/ (Accessed 20 Mar 2018).
+
+\bibitem{postresql}
+Group, P. G.~D., 1996.
+\newblock {\em PostreSQL}.
+\newblock https://www.postgresql.org (Accessed 20 Mar 2018).
+
+\bibitem{rfc791}
+{J Postel}, 1981.
+\newblock {\em RFC 791: Internet Protocol}.
+\newblock Information Sciences Institute, University of Southern California.
+\newblock http://www.ietf.org/rfc/rfc791 (Accessed 20 Mar 2018).
+
+\bibitem{ipSpoofIntro}
+Tanase, M., 2003.
+\newblock ``Ip spoofing: An introduction''.
+\newblock {\em Symantec}.
+
+\bibitem{ipSpoofing}
+Ali, F., 2007.
+\newblock ``Ip spoofing''.
+\newblock {\em Cisco}.
+
+\bibitem{spoofProblemStatement}
+Wu, J., 2007.
+\newblock ``Source address verification architecture problem statement''.
+\newblock {\em The IETF Trust}.
+
+\bibitem{hping}
+Sanfilippo, S., 2006.
+\newblock {\em Hping}.
+\newblock http://www.hping.org/ (Accessed 20 Mar 2018).
+
+\bibitem{q3ddos}
+Khalimonenko, A., Kupreev, O., and Ilganaev, K., 2017.
+\newblock ``Ddos attacks in q3 2017''.
+\newblock {\em Securelist. (Accessed 20 Mar 2018)}.
+
+\bibitem{ddoscost}
+Seals, T., 2017.
+\newblock ``Iot ddos reaches critical mass''.
+\newblock {\em info security. (Accessed 20 Mar 2018)}.
+
+\bibitem{rfc4987}
+{W. Eddy}, 2007.
+\newblock {\em RFC 4987: TCP SYN Flooding Attacks and Common Mitigations}.
+\newblock The IETF Trust.
+\newblock https://tools.ietf.org/html/rfc4987 (Accessed 20 Mar 2018).
+
+\bibitem{rfc793}
+{J Postel}, 1981.
+\newblock {\em RFC 791: Transmission Control Protocol}.
+\newblock Information Sciences Institute, University of Southern California.
+\newblock http://www.ietf.org/rfc/rfc793 (Accessed 20 Mar 2018).
+
+\bibitem{tcphijacking}
+Prohorenko, A., 2000.
+\newblock ``Tcp hijacking''.
+\newblock {\em TechRepublic}.
+
+\bibitem{USCERT}
+{US CERT}, 2014.
+\newblock ``Udp-based amplification attacks''.
+\newblock {\em Alert (TA14-017A)}.
+
+\bibitem{rfc919}
+{JC Mogul}, 1984.
+\newblock {\em RFC 919: Broadcasting Internet Datagrams}.
+\newblock The IETF Trust.
+\newblock https://tools.ietf.org/html/rfc919 (Accessed 20 Mar 2018).
+
+\bibitem{smurf}
+University, C.~M., 1998.
+\newblock ``Smurf ip denial-of-service attacks''.
+\newblock {\em Cert}.
+
+\bibitem{rfc2827}
+{P. Ferguson}, 2000.
+\newblock {\em Network Ingress Filtering: Defeating Denial of Service Attacks
+  which employ IP Source Address Spoofing}.
+\newblock The IETF Trust.
+\newblock https://tools.ietf.org/html/rfc2827 (Accessed 20 Mar 2018).
+
+\bibitem{rfc6864}
+{J. Touch}, 2013.
+\newblock {\em Updated Specification of the IPv4 ID Field}.
+\newblock The IETF Trust.
+\newblock https://tools.ietf.org/html/rfc6864 (Accessed 20 Mar 2018).
+
+\bibitem{rfc1918}
+{Y. Rekhter}, 1996.
+\newblock {\em Address Allocation for Private Internets}.
+\newblock The IETF Trust.
+\newblock https://www.ietf.org/rfc/rfc1918.txt (Accessed 20 Mar 2018).
+
+\bibitem{iptables}
+Russel, R., 1998.
+\newblock {\em iptables}.
+\newblock http://www.netfilter.org/ projects/iptables/index.html (Accessed 20
+  Mar 2018).
+
+\bibitem{workqueue}
+Molnar, I., 2002.
+\newblock {\em workqueue - generic async execution with shared worker pool}.
+\newblock https://github.com/torvalds/linux/blob/master/kernel/workqueue.c
+  (Accessed 20 Mar 2018).
+
+\bibitem{avg_pkt}
+Hebert, S., 2010.
+\newblock {\em Average IP Packet Size}.
+\newblock http://slaptijack.com/networking/average-ip-packet-size/ (accessed 28
+  March 2018).
+
+\bibitem{pingc}
+Muuss, M., 1983.
+\newblock {\em ping.c}.
+\newblock https://github.com/iputils/iputils/blob/master/ping.c (Accessed 20
+  Mar 2018).
+
+\bibitem{proc}
+tldp, 2003.
+\newblock {\em Linux Filesystem Hierarchy - 1.14 proc}.
+\newblock http://www.tldp.org/LDP/Linux-Filesystem-Hierarchy/html/proc.html
+  (Accessed 20 Mar 2018).
+
+\bibitem{iptablesapi}
+netfilter.
+\newblock {\em netfilter-faq-4}.
+\newblock netfilter.org/documentation/FAQ (Accessed 27 Mar 2018).
+
+\bibitem{endianess}
+Center, I.~K.
+\newblock {\em Network byte order and host byte order}.
+\newblock (Accessed 26 Mar 2018).
+
+\end{thebibliography}
